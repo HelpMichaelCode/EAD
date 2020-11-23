@@ -1,0 +1,13 @@
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.exe
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.deps.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.runtimeconfig.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.runtimeconfig.dev.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.dll
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\bin\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.pdb
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.csprojAssemblyReference.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.AssemblyInfoInputs.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.AssemblyInfo.cs
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.csproj.CoreCompileInputs.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.dll
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.pdb
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Lab7CollectionsAndGenerics\obj\Debug\netcoreapp3.1\Lab7CollectionsAndGenerics.genruntimeconfig.cache

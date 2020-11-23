@@ -1,0 +1,13 @@
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
