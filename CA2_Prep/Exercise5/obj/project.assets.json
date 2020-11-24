@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise5\\Exercise5.csproj",
+      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj",
       "projectName": "Exercise5",
-      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise5\\Exercise5.csproj",
+      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise5\\obj\\",
+      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

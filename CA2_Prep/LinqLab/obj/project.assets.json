@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\LinqLab\\LinqLab.csproj",
+      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\LinqLab\\LinqLab.csproj",
       "projectName": "LinqLab",
-      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\LinqLab\\LinqLab.csproj",
+      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\LinqLab\\LinqLab.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\LinqLab\\obj\\",
+      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\LinqLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

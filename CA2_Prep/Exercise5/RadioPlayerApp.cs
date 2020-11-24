@@ -8,7 +8,7 @@ namespace Exercise5
     public class RadioPlayerApp
     {
         // In-memory collection of stations
-        List<RadioStation> stations = new List<RadioStation>
+        public List<RadioStation> stations = new List<RadioStation>
         {
             new RadioStation{ RStation = "RTE Radio 1",
                               Content = RadioContent.General,
@@ -48,14 +48,6 @@ namespace Exercise5
             // Come back later to fix validation
             favouriteStations.Add(stations.Find(s => s.RStation == stationName));
         }
-
-        //public void DisplayFavouriteStations()
-        //{
-        //    foreach (var item in FavouriteStations)
-        //    {
-        //        Console.WriteLine(item);
-        //    }
-        //}
 
         public List<RadioStation> this[RadioContent contentGenre]
         {

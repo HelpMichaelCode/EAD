@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj": {}
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj": {}
   },
   "projects": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj",
         "projectName": "Lab7CollectionsAndGenerics",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab7CollectionsAndGenerics\\Lab7CollectionsAndGenerics.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab7CollectionsAndGenerics\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab7CollectionsAndGenerics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

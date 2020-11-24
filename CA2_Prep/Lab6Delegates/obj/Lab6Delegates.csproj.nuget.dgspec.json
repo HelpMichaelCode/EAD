@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab6Delegates\\Lab6Delegates.csproj": {}
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab6Delegates\\Lab6Delegates.csproj": {}
   },
   "projects": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab6Delegates\\Lab6Delegates.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab6Delegates\\Lab6Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab6Delegates\\Lab6Delegates.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab6Delegates\\Lab6Delegates.csproj",
         "projectName": "Lab6Delegates",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab6Delegates\\Lab6Delegates.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab6Delegates\\Lab6Delegates.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Lab6Delegates\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Lab6Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

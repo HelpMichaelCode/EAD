@@ -1,0 +1,13 @@
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.exe
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.deps.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.runtimeconfig.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.runtimeconfig.dev.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.dll
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\bin\Debug\netcoreapp3.1\Lab6DelegatesAgain.pdb
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.csprojAssemblyReference.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.AssemblyInfoInputs.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.AssemblyInfo.cs
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.csproj.CoreCompileInputs.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.dll
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.pdb
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\Lab6DelegatesAgain\obj\Debug\netcoreapp3.1\Lab6DelegatesAgain.genruntimeconfig.cache

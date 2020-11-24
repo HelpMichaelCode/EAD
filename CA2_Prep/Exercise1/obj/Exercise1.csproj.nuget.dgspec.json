@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj": {}
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj": {}
   },
   "projects": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj",
+      "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj",
       "projectName": "UnitTestLab",
-      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj",
+      "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\obj\\",
+      "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

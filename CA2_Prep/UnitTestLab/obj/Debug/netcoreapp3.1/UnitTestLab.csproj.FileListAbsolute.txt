@@ -11,3 +11,16 @@ E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\UnitTestLab\obj\Debug\netcoreapp3.1\U
 E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.dll
 E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.pdb
 E:\CSharpWork\RedoCSharpLabs\Lab6Delegates\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.genruntimeconfig.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.exe
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.deps.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.runtimeconfig.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.runtimeconfig.dev.json
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.dll
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\bin\Debug\netcoreapp3.1\UnitTestLab.pdb
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.csprojAssemblyReference.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.AssemblyInfoInputs.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.AssemblyInfo.cs
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.csproj.CoreCompileInputs.cache
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.dll
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.pdb
+E:\CSharpWork\RedoCSharpLabs\GitHubRepo_EAD\CA2_Prep\UnitTestLab\obj\Debug\netcoreapp3.1\UnitTestLab.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpClMS+oQD6xnL+KCkuOJslVbmln3MAoxNBqXcntwQKxxN4MASHZvQJVIcMGt5T/cKWEkZ3SYSsC1Eiv7gLlUQ==",
+  "dgSpecHash": "hodVI6YfXF6yERWGTdIl1Y6s5atkCXTyp0lI1FK/d6yt+tv9YUv5facn/7YqZ54igHGA3uei3OqD0qBlw2DxaQ==",
   "success": true,
-  "projectFilePath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\UnitTestLabTests.csproj",
+  "projectFilePath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\UnitTestLabTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\UnitTestLabTests.csproj": {}
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\UnitTestLabTests.csproj": {}
   },
   "projects": {
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj",
         "projectName": "Exercise1",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\Exercise2.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\Exercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\Exercise2.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\Exercise2.csproj",
         "projectName": "Exercise2",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\Exercise2.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\Exercise2.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,68 @@
         }
       }
     },
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\UnitTestLabTests.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\UnitTestLabTests.csproj",
-        "projectName": "UnitTestLabTests",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\UnitTestLabTests.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj",
+        "projectName": "Exercise5",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLabTests\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\UnitTestLabTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\UnitTestLabTests.csproj",
+        "projectName": "UnitTestLabTests",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\UnitTestLabTests.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLabTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,14 +190,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj": {
-                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise1\\Exercise1.csproj"
+              "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj": {
+                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise1\\Exercise1.csproj"
               },
-              "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\Exercise2.csproj": {
-                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\Exercise2\\Exercise2.csproj"
+              "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\Exercise2.csproj": {
+                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise2\\Exercise2.csproj"
               },
-              "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj": {
-                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj"
+              "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj": {
+                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\Exercise5\\Exercise5.csproj"
+              },
+              "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj": {
+                "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj"
               }
             }
           }
@@ -194,14 +251,14 @@
         }
       }
     },
-    "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj": {
+    "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj",
+        "projectUniqueName": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj",
         "projectName": "UnitTestLab",
-        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\UnitTestLab.csproj",
+        "projectPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\UnitTestLab.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\Lab6Delegates\\UnitTestLab\\obj\\",
+        "outputPath": "E:\\CSharpWork\\RedoCSharpLabs\\GitHubRepo_EAD\\CA2_Prep\\UnitTestLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
